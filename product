@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	float a,b;
+	cout<<"Enter the two numbers:";
+	cin>>a;
+	cin>>b;
+	cout<<"Product ="<<(a*b);
+	return 0;
+  }
+  
+  
+  
+  
+ OUTPUT: 
+Enter the two numbers:3.4
+5.5
+Product =18.7
